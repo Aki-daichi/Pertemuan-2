@@ -63,17 +63,6 @@ public class Soal2 {
 }
 
 /* Output:
-    Masukkan jumlah kasus uji yang akan dilakukan: 
-    6
-
-    Masukkan angka: 
-    15
-    -150
-    150000
-    1500000000
-    213333333333333333333333333333333333
-    -100000000000000
-
     15 can be fitted in
     * byte
     * short
