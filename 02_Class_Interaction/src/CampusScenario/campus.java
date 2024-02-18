@@ -40,10 +40,10 @@ public class campus {
         campus.addStudent(new student("Ana", "Nanina", 2));
 
         // Tampilkan jumlah mahasiswa di kampus
-        System.out.println("Number of students in the campus: " + campus.getStudentCount());
+        System.out.println("Jumlah Mahasiswa di kampus: " + campus.getStudentCount());
        
         // Cetak nama-nama mahasiswa
-        System.out.println("Names of the students:");
+        System.out.println("Nama-nama mahasiswa di kampus: ");
         for (student student : campus.students) {
             System.out.println(student.getFirstName() + " " + student.getLastName());
         }
